@@ -14,4 +14,10 @@ Predator
 Sicario
 Terminator
 Terminator 2
+<<<<<<< HEAD
 Tron
+=======
+Tron
+Troy
+
+>>>>>>> a9e663dee651d7c89fcf8429656425934178edb5
