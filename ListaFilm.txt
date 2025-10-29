@@ -12,6 +12,7 @@ Clerks
 Dogma
 Dune part 1 e 2 ( Villeneuve)
 E.T. 
+Fight Club
 Full Metal Jacket
 Ghostbusters
 Ghostbusters 2
@@ -20,17 +21,14 @@ Indiana Jones
 Jurassic Park
 Karate kid
 Lord of the rings
+Le ali della libertà
 Matrix
 Nigth at the museum
 Oz: The great and powerfull
 Predator
+Qualcuno volò sul nido del cuculo
 Sicario
 Terminator
 Terminator 2
-<<<<<<< HEAD
-Tron
-=======
 Tron
 Troy
-
->>>>>>> a9e663dee651d7c89fcf8429656425934178edb5
