@@ -6,6 +6,7 @@ Arrival
 Back to the future
 Back to the future part 2
 Back to the future part 3
+Batman
 Blade Runner
 Blade Runner 2049
 Clerks
@@ -18,6 +19,7 @@ Ghostbusters
 Ghostbusters 2
 Happy Gilmore
 Indiana Jones
+Spider-Man
 Jurassic Park
 Karate kid
 Lord of the rings
@@ -30,5 +32,6 @@ Qualcuno volò sul nido del cuculo
 Sicario
 Terminator
 Terminator 2
+Transformers
 Tron
 Troy
