@@ -8,11 +8,19 @@ Back to the future part 2
 Back to the future part 3
 Blade Runner
 Blade Runner 2049
+Cars 2
 Clerks
 Chiedimi se sono felice
 Così è la vita
 Dogma
+<<<<<<< HEAD
 Dune part 1 e 2 (Villeneuve)
+=======
+Dune part 1 e 2 ( Villeneuve)
+F1 the movie
+Full Metal Jacket
+Herbie
+>>>>>>> 6b5706bc1aa0eda6f80cee74d0d9be411f2828a0
 E.T. 
 Fight Club
 Full Metal Jacket
@@ -39,6 +47,7 @@ Star Wars
 =======
 Ritorno al futuro
 Sicario
+<<<<<<< HEAD
 >>>>>>> f45abf871dbaa5ffa3421e6351d19b5d5b97d930
 Terminator
 Terminator 2
@@ -47,6 +56,12 @@ The Hobbit: The Desolation of Smaug
 The Hobbit: The Battle of the Five Armies
 Tre uomini e una gamba
 Tron
+=======
+Terrifier 3
+Terminator
+Terminator 2
+Tron 
+>>>>>>> 6b5706bc1aa0eda6f80cee74d0d9be411f2828a0
 Troy
 <<<<<<< HEAD
 Tu la conosci claudia
@@ -57,4 +72,12 @@ Winchester
 X-men 
 Yl sygnore degly anelly
 Zunino davide alla riscossa contro gesù
+<<<<<<< HEAD
 >>>>>>> f45abf871dbaa5ffa3421e6351d19b5d5b97d930
+=======
+Zunino davide alla riscossa contro babilonia ( parte 1 )
+Zunino davide alla riscossa contro babilonia ( parte 2 )
+Zunino davide 4
+Zuny: le origini
+Zubbabo ( a zunino story )
+>>>>>>> 6b5706bc1aa0eda6f80cee74d0d9be411f2828a0
