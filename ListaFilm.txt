@@ -6,6 +6,7 @@ Arrival
 Back to the future
 Back to the future part 2
 Back to the future part 3
+Batman
 Blade Runner
 Blade Runner 2049
 Cars 2
@@ -25,6 +26,7 @@ Ghostbusters
 Ghostbusters 2
 Happy Gilmore
 Indiana Jones
+Spider-Man
 John Wick
 John Wick - Capitolo 2
 John Wick 3 - Parabellum
@@ -49,12 +51,14 @@ Ritorno al futuro
 Sicario
 Terminator
 Terminator 2
+<<<<<<< HEAD
 The Hobbit: An Unexpected Journey
 The Hobbit: The Desolation of Smaug
 The Hobbit: The Battle of the Five Armies
 Tre uomini e una gamba
 Tron
 Terrifier 3
+Tron 
 Troy
 Tu la conosci claudia
 Una notte al museo
