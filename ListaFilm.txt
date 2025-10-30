@@ -33,8 +33,13 @@ Oz: The great and powerfull
 Odio l'estate
 Predator	
 Qualcuno volò sul nido del cuculo
+<<<<<<< HEAD
 Sicario 
 Star Wars
+=======
+Ritorno al futuro
+Sicario
+>>>>>>> f45abf871dbaa5ffa3421e6351d19b5d5b97d930
 Terminator
 Terminator 2
 The Hobbit: An Unexpected Journey
@@ -43,4 +48,13 @@ The Hobbit: The Battle of the Five Armies
 Tre uomini e una gamba
 Tron
 Troy
+<<<<<<< HEAD
 Tu la conosci claudia
+=======
+Una notte al museo
+V per vendetta
+Winchester
+X-men 
+Yl sygnore degly anelly
+Zunino davide alla riscossa contro gesù
+>>>>>>> f45abf871dbaa5ffa3421e6351d19b5d5b97d930
