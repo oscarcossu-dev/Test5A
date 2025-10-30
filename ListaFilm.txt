@@ -9,9 +9,14 @@ Back to the future part 3
 Batman
 Blade Runner
 Blade Runner 2049
+Cars 2
 Clerks
+Demon Slayer: Kimetsu no Yaiba Il Castello dell'Infinito
 Dogma
 Dune part 1 e 2 ( Villeneuve)
+F1 the movie
+Full Metal Jacket
+Herbie
 E.T. 
 Fight Club
 Full Metal Jacket
@@ -19,8 +24,16 @@ Ghostbusters
 Ghostbusters 2
 Happy Gilmore
 Indiana Jones
+<<<<<<< HEAD
 Spider-Man
+=======
+John Wick
+John Wick - Capitolo 2
+John Wick 3 - Parabellum
+John Wick 4
+>>>>>>> d5c59c9850b32fcced30d5b96b44a179397f7b32
 Jurassic Park
+Jujutsu Kaisen 0 - Il film
 Karate kid
 Lord of the rings
 Le ali della libertà
@@ -31,10 +44,15 @@ Predator
 Qualcuno volò sul nido del cuculo
 Ritorno al futuro
 Sicario
+Terrifier 3
 Terminator
 Terminator 2
+<<<<<<< HEAD
 Transformers
 Tron
+=======
+Tron 
+>>>>>>> d5c59c9850b32fcced30d5b96b44a179397f7b32
 Troy
 Una notte al museo
 V per vendetta
@@ -42,3 +60,25 @@ Winchester
 X-men 
 Yl sygnore degly anelly
 Zunino davide alla riscossa contro gesù
+Zunino davide alla riscossa contro babilonia ( parte 1 )
+Zunino davide alla riscossa contro babilonia ( parte 2 )
+Zunino davide 4
+Zuny: le origini
+Zubbabo ( a zunino story )
+Zunino Davide e l'incontro col sommo di bardineto
+The king of bardineto
+Oddone Francesco alla conquista di calizzano
+Oddone 3
+Oddo 
+Oddo e Zuny 4ever
+Paccino the Linux awekening
+Linux ( a paccino story)
+Paccino e Oddo la nascita della guerra
+Oddo vs Zuny e l'incontro col Paccino
+2 oddo 2 zuny 
+Oddzunangers linux war
+Oddzunangers L'annessione di alessio
+Oddzunangers endgame
+Scognamiglio cristiano
+Zuny contro i cristiani
+zuny contro cristo
