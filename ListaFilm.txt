@@ -12,15 +12,12 @@ Cars 2
 Clerks
 Chiedimi se sono felice
 Così è la vita
+Demon Slayer: Kimetsu no Yaiba Il Castello dell'Infinito
 Dogma
-<<<<<<< HEAD
 Dune part 1 e 2 (Villeneuve)
-=======
-Dune part 1 e 2 ( Villeneuve)
 F1 the movie
 Full Metal Jacket
 Herbie
->>>>>>> 6b5706bc1aa0eda6f80cee74d0d9be411f2828a0
 E.T. 
 Fight Club
 Full Metal Jacket
@@ -28,7 +25,12 @@ Ghostbusters
 Ghostbusters 2
 Happy Gilmore
 Indiana Jones
+John Wick
+John Wick - Capitolo 2
+John Wick 3 - Parabellum
+John Wick 4
 Jurassic Park
+Jujutsu Kaisen 0 - Il film
 Karate kid
 La leggenda di al, john e jack
 Lord of the rings: the fellowship of the ring
@@ -41,14 +43,10 @@ Oz: The great and powerfull
 Odio l'estate
 Predator	
 Qualcuno volò sul nido del cuculo
-<<<<<<< HEAD
 Sicario 
 Star Wars
-=======
 Ritorno al futuro
 Sicario
-<<<<<<< HEAD
->>>>>>> f45abf871dbaa5ffa3421e6351d19b5d5b97d930
 Terminator
 Terminator 2
 The Hobbit: An Unexpected Journey
@@ -56,45 +54,34 @@ The Hobbit: The Desolation of Smaug
 The Hobbit: The Battle of the Five Armies
 Tre uomini e una gamba
 Tron
-=======
 Terrifier 3
-Terminator
-Terminator 2
-Tron 
->>>>>>> 6b5706bc1aa0eda6f80cee74d0d9be411f2828a0
 Troy
-<<<<<<< HEAD
 Tu la conosci claudia
-=======
 Una notte al museo
 V per vendetta
 Winchester
 X-men 
 Yl sygnore degly anelly
 Zunino davide alla riscossa contro gesù
-<<<<<<< HEAD
->>>>>>> f45abf871dbaa5ffa3421e6351d19b5d5b97d930
-=======
 Zunino davide alla riscossa contro babilonia ( parte 1 )
 Zunino davide alla riscossa contro babilonia ( parte 2 )
 Zunino davide 4
 Zuny: le origini
 Zubbabo ( a zunino story )
-<<<<<<< HEAD
->>>>>>> 6b5706bc1aa0eda6f80cee74d0d9be411f2828a0
-=======
 Zunino Davide e l'incontro col sommo di bardineto
 The king of bardineto
 Oddone Francesco alla conquista di calizzano
 Oddone 3
 Oddo 
 Oddo e Zuny 4ever
-<<<<<<< HEAD
->>>>>>> e59244f6c05919ed6edf421c674a8c769111198f
-=======
 Paccino the Linux awekening
 Linux ( a paccino story)
 Paccino e Oddo la nascita della guerra
 Oddo vs Zuny e l'incontro col Paccino
 2 oddo 2 zuny 
->>>>>>> 292a76c1400f8d2a2b38e5a37990e3d50ce593cb
+Oddzunangers linux war
+Oddzunangers L'annessione di alessio
+Oddzunangers endgame
+Scognamiglio cristiano
+Zuny contro i cristiani
+zuny contro cristo
