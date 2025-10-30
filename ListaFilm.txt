@@ -80,4 +80,13 @@ Zunino davide alla riscossa contro babilonia ( parte 2 )
 Zunino davide 4
 Zuny: le origini
 Zubbabo ( a zunino story )
+<<<<<<< HEAD
 >>>>>>> 6b5706bc1aa0eda6f80cee74d0d9be411f2828a0
+=======
+Zunino Davide e l'incontro col sommo di bardineto
+The king of bardineto
+Oddone Francesco alla conquista di calizzano
+Oddone 3
+Oddo 
+Oddo e Zuny 4ever
+>>>>>>> e59244f6c05919ed6edf421c674a8c769111198f
