@@ -89,4 +89,12 @@ Oddone Francesco alla conquista di calizzano
 Oddone 3
 Oddo 
 Oddo e Zuny 4ever
+<<<<<<< HEAD
 >>>>>>> e59244f6c05919ed6edf421c674a8c769111198f
+=======
+Paccino the Linux awekening
+Linux ( a paccino story)
+Paccino e Oddo la nascita della guerra
+Oddo vs Zuny e l'incontro col Paccino
+2 oddo 2 zuny 
+>>>>>>> 292a76c1400f8d2a2b38e5a37990e3d50ce593cb
